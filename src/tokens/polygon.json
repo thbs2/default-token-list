@@ -310,5 +310,12 @@
     "symbol": "VANRY",
     "decimals": 18,
     "logoURI": "https://coin-images.coingecko.com/coins/images/33466/large/apple-touch-icon.png?1701942541"
+  },
+  {
+  "name": "Thai Bath School",
+  "symbol": "THBs",
+  "decimals": 18,
+  "chainId": 137,
+  "logoURI": "https://ipfs.io/ipfs/bafybeibfi6n5ccxsfzxsgmimegf42rgmmz43bbkptir5nwyxesow5mdd6"
   }
 ]
